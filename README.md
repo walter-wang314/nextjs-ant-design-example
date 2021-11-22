@@ -8,7 +8,7 @@ Execute [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages
 
 ```bash
 npx create-next-app --example hello-world hello-world-app
-https://www.cxymm.net/article/zlk4524718/103953738
+https://segmentfault.com/a/1190000038465613
 # or
 yarn create next-app --example hello-world hello-world-app
 ```
