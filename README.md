@@ -1,5 +1,5 @@
 # Hello World example
-# https://www.cxymm.net/article/zlk4524718/103953738
+
 ## How to use
 
 ### Using `create-next-app`
@@ -8,6 +8,7 @@ Execute [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages
 
 ```bash
 npx create-next-app --example hello-world hello-world-app
+https://www.cxymm.net/article/zlk4524718/103953738
 # or
 yarn create next-app --example hello-world hello-world-app
 ```
